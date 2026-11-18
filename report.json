@@ -1,0 +1,1812 @@
+{
+ "url": "C:\\Profile bhyon\\index.html",
+ "at": "2026-11-18T11:36:31.788Z",
+ "allow": [
+  "gradient",
+  "text-shadow",
+  "few-pictures"
+ ],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 4,
+   "filled": [
+    0.49,
+    0.31,
+    0.54,
+    0.68
+   ],
+   "motion": {
+    "elements": 22,
+    "css": 7,
+    "transitions": 15,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 3406,
+     "screens": 3.8,
+     "words": 225,
+     "img": 1,
+     "video": 0,
+     "canvas": 0,
+     "svg": 15,
+     "sections": 4,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 1,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "foto-profil.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "BHYONN",
+     "words": 1,
+     "chars": 6,
+     "lines": 1,
+     "size": 256,
+     "vw": 17.8,
+     "font": "Poppins",
+     "weight": 800,
+     "tracking": -0.058,
+     "leading": 0.8,
+     "upper": true,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.79,
+     "top": 143,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "BHYONN",
+     "words": 1,
+     "lines": 1,
+     "size": 256,
+     "font": "Poppins"
+    },
+    "headings": [
+     {
+      "text": "BHYONN",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 256,
+      "vw": 17.8,
+      "font": "Poppins",
+      "weight": 800,
+      "tracking": -0.058,
+      "leading": 0.8,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.79,
+      "top": 143,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "BELAJAR",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 66.4,
+      "vw": 4.6,
+      "font": "Silkscreen",
+      "weight": 700,
+      "tracking": 0.015,
+      "leading": 0.92,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.3,
+      "top": 378,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Kenalan dulu",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 58.4,
+      "vw": 4.1,
+      "font": "Poppins",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.39,
+      "top": 1077,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Di tempat lain",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 58.4,
+      "vw": 4.1,
+      "font": "Poppins",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.3,
+      "top": 1781,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "halo!",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 43.2,
+      "vw": 3,
+      "font": "Silkscreen",
+      "weight": 700,
+      "tracking": 0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.25,
+      "top": 1964,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Makasih sudah mampir.",
+      "words": 3,
+      "chars": 21,
+      "lines": 2,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Poppins",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.47,
+      "top": 2516,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "BHYONN.",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 160,
+      "vw": 11.1,
+      "font": "Poppins",
+      "weight": 800,
+      "tracking": -0.058,
+      "leading": 0.82,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.78,
+      "top": 3182,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 7,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 2,
+     "centered": 1,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Poppins",
+       "share": 0.98,
+       "mono": false
+      },
+      {
+       "family": "Silkscreen",
+       "share": 0.02,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      13,
+      14,
+      16,
+      17,
+      19,
+      22,
+      23,
+      26,
+      43,
+      58,
+      64,
+      66,
+      160,
+      256
+     ],
+     "sizeCount": 14,
+     "notLoaded": [],
+     "body": {
+      "font": "Poppins",
+      "size": 16,
+      "leading": 1.6,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 8.4
+     },
+     "measureChars": 55,
+     "max": {
+      "size": 256,
+      "vw": 17.8,
+      "font": "Poppins",
+      "text": "BHYONN"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.02,
+     "centerShare": 0.15,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#eaf4fe",
+     "bodyBgHsl": {
+      "h": 210,
+      "s": 0.91,
+      "l": 0.96
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#2874b8",
+       "top": 2444,
+       "hsl": {
+        "h": 208,
+        "s": 0.64,
+        "l": 0.44
+       }
+      },
+      {
+       "color": "#d8ebfc",
+       "top": 3094,
+       "hsl": {
+        "h": 208,
+        "s": 0.86,
+        "l": 0.92
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#123f60",
+       "share": 0.5
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.26
+      },
+      {
+       "color": "#2a5c82",
+       "share": 0.19
+      },
+      {
+       "color": "#2f7fc9",
+       "share": 0.03
+      },
+      {
+       "color": "#1e6098",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#ffe04d",
+      "hsl": {
+       "h": 50,
+       "s": 1,
+       "l": 0.65
+      },
+      "fg": "#123f60"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 3,
+     "radius": "pill",
+     "height": 52,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Lompat ke isi",
+      "Discord (buka di tab baru)",
+      "Kenalan di Discord (buka di tab baru)"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 8,
+     "scrims": 0,
+     "gradientSamples": [
+      "span.orb.orb--hero-a → radial-gradient(circle at 34% 28%, rgb(255, 255, 255) 0%, rgb(232, 244, 254) 16%, rgb(169, 211, 242) 44%, rgb(",
+      "span.orb.orb--hero-b → radial-gradient(circle at 34% 28%, rgb(255, 255, 255) 0%, rgb(232, 244, 254) 16%, rgb(169, 211, 242) 44%, rgb(",
+      "span.orb.orb--about-a → radial-gradient(circle at 34% 28%, rgb(255, 255, 255) 0%, rgb(232, 244, 254) 16%, rgb(169, 211, 242) 44%, rgb(",
+      "span.orb.orb--about-b → radial-gradient(circle at 34% 28%, rgb(255, 255, 255) 0%, rgb(232, 244, 254) 16%, rgb(169, 211, 242) 44%, rgb("
+     ],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 13,
+     "boxRadius": 48,
+     "squareMedia": 0,
+     "roundedMedia": 1,
+     "mediaRadius": 44,
+     "textShadow": 1,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.09
+     }
+    ],
+    "nav": {
+     "links": 4,
+     "fixed": false,
+     "height": 95,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "poppins",
+     "silkscreen"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 3406,
+    "margins": {
+     "left": 156,
+     "right": 156
+    },
+    "sections": [
+     {
+      "sel": "section#atas.hero",
+      "tag": "section",
+      "top": 95,
+      "height": 854,
+      "words": 36,
+      "media": 1,
+      "middle": 258,
+      "heading": {
+       "text": "BELAJAR",
+       "size": 66,
+       "tag": "p"
+      },
+      "left": 156,
+      "right": 149,
+      "textLeft": 156,
+      "textRight": 149,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#tentang.about",
+      "tag": "section",
+      "top": 949,
+      "height": 705,
+      "words": 74,
+      "media": 0,
+      "middle": 36,
+      "heading": {
+       "text": "Kenalan dulu",
+       "size": 58,
+       "tag": "h2"
+      },
+      "left": 156,
+      "right": 156,
+      "textLeft": 156,
+      "textRight": 156,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#tautan.links",
+      "tag": "section",
+      "top": 1653,
+      "height": 574,
+      "words": 44,
+      "media": 0,
+      "middle": 143,
+      "heading": {
+       "text": "Di tempat lain",
+       "size": 58,
+       "tag": "h2"
+      },
+      "left": 156,
+      "right": 156,
+      "textLeft": 156,
+      "textRight": 156,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#sapa.closing",
+      "tag": "section",
+      "top": 2228,
+      "height": 818,
+      "words": 29,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Makasih sudah mampir.",
+       "size": 64,
+       "tag": "h2"
+      },
+      "left": 476,
+      "right": 476,
+      "textLeft": 476,
+      "textRight": 476,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.footer",
+      "tag": "footer",
+      "top": 3094,
+      "height": 312,
+      "words": 14,
+      "media": 0,
+      "middle": 356,
+      "heading": {
+       "text": "BHYONN",
+       "size": 160,
+       "tag": "p"
+      },
+      "left": 156,
+      "right": 156,
+      "textLeft": 156,
+      "textRight": 156,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "BHYONN",
+      "size": 256,
+      "top": 143,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 156,
+      "n": 3
+     },
+     {
+      "x": 191,
+      "n": 2
+     },
+     {
+      "x": 576,
+      "n": 2
+     },
+     {
+      "x": 967,
+      "n": 2
+     },
+     {
+      "x": 142,
+      "n": 1
+     },
+     {
+      "x": 857,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 11,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.08,
+    "voidBox": {
+     "x": 660,
+     "y": 480,
+     "w": 240,
+     "h": 420
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 4,
+   "filled": [
+    0.53,
+    0.74,
+    0.75,
+    0.7
+   ],
+   "motion": {
+    "elements": 22,
+    "css": 7,
+    "transitions": 15,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 3081,
+     "screens": 3,
+     "words": 225,
+     "img": 1,
+     "video": 0,
+     "canvas": 0,
+     "svg": 15,
+     "sections": 4,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 1,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "foto-profil.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "BHYONN",
+     "words": 1,
+     "chars": 6,
+     "lines": 1,
+     "size": 153.6,
+     "vw": 20,
+     "font": "Poppins",
+     "weight": 800,
+     "tracking": -0.058,
+     "leading": 0.8,
+     "upper": true,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.93,
+     "top": 107,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "BHYONN",
+     "words": 1,
+     "lines": 1,
+     "size": 153.6,
+     "font": "Poppins"
+    },
+    "headings": [
+     {
+      "text": "BHYONN",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 153.6,
+      "vw": 20,
+      "font": "Poppins",
+      "weight": 800,
+      "tracking": -0.058,
+      "leading": 0.8,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.93,
+      "top": 107,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "BELAJAR",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 36.1,
+      "vw": 4.7,
+      "font": "Silkscreen",
+      "weight": 700,
+      "tracking": 0.015,
+      "leading": 0.92,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.3,
+      "top": 254,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Kenalan dulu",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 35.3,
+      "vw": 4.6,
+      "font": "Poppins",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.51,
+      "top": 730,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Di tempat lain",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 35.3,
+      "vw": 4.6,
+      "font": "Poppins",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 1344,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "halo!",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 32,
+      "vw": 4.2,
+      "font": "Silkscreen",
+      "weight": 700,
+      "tracking": 0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.85,
+      "top": 1482,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Makasih sudah mampir.",
+      "words": 3,
+      "chars": 21,
+      "lines": 2,
+      "size": 39.9,
+      "vw": 5.2,
+      "font": "Poppins",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.55,
+      "top": 2360,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "BHYONN.",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 115.2,
+      "vw": 15,
+      "font": "Poppins",
+      "weight": 800,
+      "tracking": -0.058,
+      "leading": 0.82,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 2871,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 7,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 2,
+     "centered": 1,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Poppins",
+       "share": 0.98,
+       "mono": false
+      },
+      {
+       "family": "Silkscreen",
+       "share": 0.02,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      13,
+      14,
+      16,
+      18,
+      19,
+      22,
+      32,
+      35,
+      36,
+      40,
+      115,
+      154
+     ],
+     "sizeCount": 12,
+     "notLoaded": [],
+     "body": {
+      "font": "Poppins",
+      "size": 16,
+      "leading": 1.6,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 8.4
+     },
+     "measureChars": 48,
+     "max": {
+      "size": 153.6,
+      "vw": 20,
+      "font": "Poppins",
+      "text": "BHYONN"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.02,
+     "centerShare": 0.15,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#eaf4fe",
+     "bodyBgHsl": {
+      "h": 210,
+      "s": 0.91,
+      "l": 0.96
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#ffffff",
+       "top": 1725,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#2874b8",
+       "top": 2312,
+       "hsl": {
+        "h": 208,
+        "s": 0.64,
+        "l": 0.44
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#123f60",
+       "share": 0.5
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.26
+      },
+      {
+       "color": "#2a5c82",
+       "share": 0.19
+      },
+      {
+       "color": "#2f7fc9",
+       "share": 0.03
+      },
+      {
+       "color": "#1e6098",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#ffe04d",
+      "hsl": {
+       "h": 50,
+       "s": 1,
+       "l": 0.65
+      },
+      "fg": "#123f60"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 3,
+     "radius": "pill",
+     "height": 52,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Lompat ke isi",
+      "Discord (buka di tab baru)",
+      "Kenalan di Discord (buka di tab baru)"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 7,
+     "scrims": 0,
+     "gradientSamples": [
+      "span.orb.orb--hero-a → radial-gradient(circle at 34% 28%, rgb(255, 255, 255) 0%, rgb(232, 244, 254) 16%, rgb(169, 211, 242) 44%, rgb(",
+      "span.orb.orb--hero-b → radial-gradient(circle at 34% 28%, rgb(255, 255, 255) 0%, rgb(232, 244, 254) 16%, rgb(169, 211, 242) 44%, rgb(",
+      "span.orb.orb--about-a → radial-gradient(circle at 34% 28%, rgb(255, 255, 255) 0%, rgb(232, 244, 254) 16%, rgb(169, 211, 242) 44%, rgb(",
+      "span.orb.orb--links-a → radial-gradient(circle at 34% 28%, rgb(255, 255, 255) 0%, rgb(232, 244, 254) 16%, rgb(169, 211, 242) 44%, rgb("
+     ],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 13,
+     "boxRadius": 48,
+     "squareMedia": 0,
+     "roundedMedia": 1,
+     "mediaRadius": 44,
+     "textShadow": 1,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 4,
+     "fixed": false,
+     "height": 76,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "poppins",
+     "silkscreen"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 3081,
+    "margins": {
+     "left": 31,
+     "right": 31
+    },
+    "sections": [
+     {
+      "sel": "section#atas.hero",
+      "tag": "section",
+      "top": 76,
+      "height": 567,
+      "words": 36,
+      "media": 1,
+      "middle": 47,
+      "heading": {
+       "text": "BELAJAR",
+       "size": 36,
+       "tag": "p"
+      },
+      "left": 31,
+      "right": 31,
+      "textLeft": 31,
+      "textRight": 31,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#tentang.about",
+      "tag": "section",
+      "top": 643,
+      "height": 629,
+      "words": 74,
+      "media": 0,
+      "middle": 34,
+      "heading": {
+       "text": "Kenalan dulu",
+       "size": 35,
+       "tag": "h2"
+      },
+      "left": 31,
+      "right": 31,
+      "textLeft": 31,
+      "textRight": 31,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#tautan.links",
+      "tag": "section",
+      "top": 1272,
+      "height": 896,
+      "words": 44,
+      "media": 0,
+      "middle": 182,
+      "heading": {
+       "text": "Di tempat lain",
+       "size": 35,
+       "tag": "h2"
+      },
+      "left": 31,
+      "right": 31,
+      "textLeft": 31,
+      "textRight": 31,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#sapa.closing",
+      "tag": "section",
+      "top": 2168,
+      "height": 615,
+      "words": 29,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Makasih sudah mampir.",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 158,
+      "right": 158,
+      "textLeft": 158,
+      "textRight": 158,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.footer",
+      "tag": "footer",
+      "top": 2815,
+      "height": 266,
+      "words": 14,
+      "media": 0,
+      "middle": 111,
+      "heading": {
+       "text": "BHYONN",
+       "size": 115,
+       "tag": "p"
+      },
+      "left": 31,
+      "right": 31,
+      "textLeft": 31,
+      "textRight": 31,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "BHYONN",
+      "size": 154,
+      "top": 107,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 22,
+      "n": 4
+     },
+     {
+      "x": 56,
+      "n": 2
+     },
+     {
+      "x": 297,
+      "n": 2
+     },
+     {
+      "x": 543,
+      "n": 2
+     },
+     {
+      "x": 310,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 11,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 5,
+   "filled": [
+    0.54,
+    0.69,
+    0.74,
+    0.76,
+    0.79
+   ],
+   "motion": {
+    "elements": 22,
+    "css": 7,
+    "transitions": 15,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 4059,
+     "screens": 4.8,
+     "words": 223,
+     "img": 1,
+     "video": 0,
+     "canvas": 0,
+     "svg": 15,
+     "sections": 4,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 1,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "foto-profil.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "BHYONN",
+     "words": 1,
+     "chars": 6,
+     "lines": 1,
+     "size": 78,
+     "vw": 20,
+     "font": "Poppins",
+     "weight": 800,
+     "tracking": -0.058,
+     "leading": 0.8,
+     "upper": true,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.91,
+     "top": 100,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "BHYONN",
+     "words": 1,
+     "lines": 1,
+     "size": 78,
+     "font": "Poppins"
+    },
+    "headings": [
+     {
+      "text": "BHYONN",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 78,
+      "vw": 20,
+      "font": "Poppins",
+      "weight": 800,
+      "tracking": -0.058,
+      "leading": 0.8,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.91,
+      "top": 100,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "BELAJAR",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Silkscreen",
+      "weight": 700,
+      "tracking": 0.015,
+      "leading": 0.92,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.53,
+      "top": 178,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Kenalan dulu",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 35.2,
+      "vw": 9,
+      "font": "Poppins",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 1047,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Di tempat lain",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 35.2,
+      "vw": 9,
+      "font": "Poppins",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 2336,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "halo!",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Silkscreen",
+      "weight": 700,
+      "tracking": 0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.76,
+      "top": 2474,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Makasih sudah mampir.",
+      "words": 3,
+      "chars": 21,
+      "lines": 2,
+      "size": 34.4,
+      "vw": 8.8,
+      "font": "Poppins",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.78,
+      "top": 3352,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "BHYONN.",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 58.5,
+      "vw": 15,
+      "font": "Poppins",
+      "weight": 800,
+      "tracking": -0.058,
+      "leading": 0.82,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 3878,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 7,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 2,
+     "centered": 1,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Poppins",
+       "share": 0.98,
+       "mono": false
+      },
+      {
+       "family": "Silkscreen",
+       "share": 0.02,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      13,
+      14,
+      16,
+      18,
+      19,
+      22,
+      32,
+      34,
+      35,
+      59,
+      78
+     ],
+     "sizeCount": 11,
+     "notLoaded": [],
+     "body": {
+      "font": "Poppins",
+      "size": 16,
+      "leading": 1.6,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 8.4
+     },
+     "measureChars": 39,
+     "max": {
+      "size": 78,
+      "vw": 20,
+      "font": "Poppins",
+      "text": "BHYONN"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.02,
+     "centerShare": 0.15,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#eaf4fe",
+     "bodyBgHsl": {
+      "h": 210,
+      "s": 0.91,
+      "l": 0.96
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#ffe04d",
+       "top": 1190,
+       "hsl": {
+        "h": 50,
+        "s": 1,
+        "l": 0.65
+       }
+      },
+      {
+       "color": "#2874b8",
+       "top": 1535,
+       "hsl": {
+        "h": 208,
+        "s": 0.64,
+        "l": 0.44
+       }
+      },
+      {
+       "color": "#ffffff",
+       "top": 2716,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#123f60",
+       "share": 0.49
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.26
+      },
+      {
+       "color": "#2a5c82",
+       "share": 0.19
+      },
+      {
+       "color": "#2f7fc9",
+       "share": 0.03
+      },
+      {
+       "color": "#1e6098",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#ffe04d",
+      "hsl": {
+       "h": 50,
+       "s": 1,
+       "l": 0.65
+      },
+      "fg": "#123f60"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 3,
+     "radius": "pill",
+     "height": 52,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Lompat ke isi",
+      "Discord (buka di tab baru)",
+      "Kenalan di Discord (buka di tab baru)"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 7,
+     "scrims": 0,
+     "gradientSamples": [
+      "span.orb.orb--hero-a → radial-gradient(circle at 34% 28%, rgb(255, 255, 255) 0%, rgb(232, 244, 254) 16%, rgb(169, 211, 242) 44%, rgb(",
+      "span.orb.orb--hero-b → radial-gradient(circle at 34% 28%, rgb(255, 255, 255) 0%, rgb(232, 244, 254) 16%, rgb(169, 211, 242) 44%, rgb(",
+      "span.orb.orb--about-a → radial-gradient(circle at 34% 28%, rgb(255, 255, 255) 0%, rgb(232, 244, 254) 16%, rgb(169, 211, 242) 44%, rgb(",
+      "span.orb.orb--links-a → radial-gradient(circle at 34% 28%, rgb(255, 255, 255) 0%, rgb(232, 244, 254) 16%, rgb(169, 211, 242) 44%, rgb("
+     ],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 13,
+     "boxRadius": 29,
+     "squareMedia": 0,
+     "roundedMedia": 1,
+     "mediaRadius": 44,
+     "textShadow": 1,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.15
+     }
+    ],
+    "nav": {
+     "links": 2,
+     "fixed": false,
+     "height": 76,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "poppins",
+     "silkscreen"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 4059,
+    "margins": {
+     "left": 20,
+     "right": 25
+    },
+    "sections": [
+     {
+      "sel": "section#atas.hero",
+      "tag": "section",
+      "top": 76,
+      "height": 899,
+      "words": 37,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "BHYONN",
+       "size": 78,
+       "tag": "h1"
+      },
+      "left": 16,
+      "right": 29,
+      "textLeft": 16,
+      "textRight": 29,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#tentang.about",
+      "tag": "section",
+      "top": 975,
+      "height": 1289,
+      "words": 74,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Kenalan dulu",
+       "size": 35,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 25,
+      "textLeft": 20,
+      "textRight": 25,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#tautan.links",
+      "tag": "section",
+      "top": 2264,
+      "height": 896,
+      "words": 44,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Di tempat lain",
+       "size": 35,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 51,
+      "textLeft": 20,
+      "textRight": 51,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#sapa.closing",
+      "tag": "section",
+      "top": 3160,
+      "height": 630,
+      "words": 29,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Makasih sudah mampir.",
+       "size": 34,
+       "tag": "h2"
+      },
+      "left": 55,
+      "right": 55,
+      "textLeft": 55,
+      "textRight": 55,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.footer",
+      "tag": "footer",
+      "top": 3822,
+      "height": 237,
+      "words": 14,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "BHYONN",
+       "size": 59,
+       "tag": "p"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 20,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "BHYONN",
+      "size": 78,
+      "top": 100,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 38,
+      "n": 7
+     },
+     {
+      "x": 16,
+      "n": 4
+     }
+    ],
+    "leftBlocks": 11,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "size-count",
+   "width": 1440,
+   "message": "14 different font sizes (13, 14, 16, 17, 19, 22, 23, 26, 43, 58, 64, 66, 160, 256).",
+   "fix": "A page needs about five: display, heading, lead, body, small.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "C:\\Profile bhyon\\.taste-skill\\final\\desktop-fold.jpg",
+   "pages": [
+    "C:\\Profile bhyon\\.taste-skill\\final\\desktop-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "C:\\Profile bhyon\\.taste-skill\\final\\tablet-fold.jpg",
+   "pages": [
+    "C:\\Profile bhyon\\.taste-skill\\final\\tablet-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "C:\\Profile bhyon\\.taste-skill\\final\\mobile-fold.jpg",
+   "pages": [
+    "C:\\Profile bhyon\\.taste-skill\\final\\mobile-page-01.jpg"
+   ],
+   "film": []
+  }
+ ]
+}
